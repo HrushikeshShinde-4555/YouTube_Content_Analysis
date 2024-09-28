@@ -1,4 +1,8 @@
 I Have created google sheet  dashboard on "YouTube Content Analysis".
+
+DATASET LINK:- 
+https://docs.google.com/spreadsheets/d/1DFAnQFcxXgGb6r6FJfVqP8-Z3yHyMsrqN52ssCfhGRE/edit?usp=drivesdk
+
 Types of analysis:
 
 1. Video performance analysis:
@@ -42,3 +46,4 @@ Metrics to track:
 6. Average view duration
 7. Click-through rate (CTR)
 8. Conversion rate
+
